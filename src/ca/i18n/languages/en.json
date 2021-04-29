@@ -1,0 +1,72 @@
+{
+  "app": "LineApp",
+  "validation": {
+    "errorTitle" : "Error",
+    "requiredField": "{{fieldName}} is required"
+  },
+  "welcome": {
+    "title": "Welcome",
+    "alreadyHaveAccount": "ALREADY HAVE AN ACCOUNT?",
+    "signupWithYourEmail": "Sign Up with your Email"
+  },
+  "login": {
+    "pageTitle": "Welcome to",
+    "pageSubTitle": "A quick and easy way to book for an appointment to your favourite clinic",
+    "email": "Email Address",
+    "password": "Password",
+    "usernameEmail": "Please input a valid email address",
+    "incorrectCredential": "Incorrect credential. Please try again.",
+    "or": "OR",
+    "loginButton": "Login",
+    "loginWithFacebook": "Login with Facebook",
+    "loginSuccessful": "Login successful",
+    "loginFailed": "Login failed",
+    "pleaseCheckCredentials": "Please check your credentials",
+    "logoutSuccessful": "You have successfully logged out",
+    "loginNoAccount": "Dont have an account? Sign up",
+    "forgotPassword":"FORGOT PASSWORD",
+    "forgotPasswordEmail": "Email Address",
+    "forgotPasswordSuccess": "Successfully sent link.",
+    "forgotPasswordFailed": "Unsuccessfull"
+  },
+  "register": {
+    "pageTitle": "Signup",
+    "email": "Email Address",
+    "usernameEmail": "Please input a valid email address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordFailed": "Password do not match",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "address": "Address",
+    "phoneNumber": "Phone Number",
+    "phoneNumberFailed":"Phone number",
+    "phNumberOnly":"Please input a Philipine mobile number",
+    "signupButton": "Sign up",
+    "haveAccount": "Already have an account? Sign in",
+    "registerSuccessful": "Registration successful",
+    "registerFailed":"Registrantion failed",
+    "checkData":"Please check your inputs",
+    "otpSuccessful":"Congratulations! You have successfully registered!",
+    "otpFailed":"Input valid OTP",
+    "checkOTP":"Please check your email address for your OTP"
+  },
+  "logout": {
+    "buttonText": "Logout"
+  },
+  
+  "convertError": {
+    "USER_ALREADY_REGISTERED": "Email address is already in use.",
+    "MOBILE_NO_ALREADY_REGISTERD": "Mobile number is already in use.",
+    "INVALID_OTP": "Invalid OTP",
+    "Invalid request": "Invalid request",
+    "Email not found": "Email not found",
+    "OTP_REQUIRED": "OTP is required",
+    "NEW_PASSWORD_SHOULD_NOT_BE_SAME_AS_OLD_PASSWORD": "Password should not be the same as old password.",
+    "INVALID_CURRENT_PASSWORD": "Current password is invalid"
+  },
+
+  "appointment": {
+    "appointmentText": "BOOK APPOINTMENT"
+  }
+}
